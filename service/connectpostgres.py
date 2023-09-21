@@ -17,7 +17,7 @@ def connectdb():
         host='dpg-ck5snk8s0i2c73bv6p2g-a',
         user='admin',
         password='XhiFJIScQB4EB9iSabRmp8gnx113sA15',
-        database='postgrespython',
+        database='sampledb_7gn3',
         port=5432,
     )
     return connection
